@@ -1,0 +1,27 @@
+{
+  "AA1": {
+    "airline": "American Airlines",
+    "from": "Mexico City",
+    "to": "Madrid"
+  },
+  "AC1": {
+    "airline": "Emirates",
+    "from": "Toronto",
+    "to": "Tokyo"
+  },
+  "NZ1": {
+    "airline": "American Airlines",
+    "from": "London",
+    "to": "Los Angeles"
+  },
+  "TN1": {
+    "airline": "Emirates",
+    "from": "Dubai",
+    "to": "Frankfurt"
+  },
+  "DJ1": {
+    "airline": "Qantas",
+    "from": "Sydney",
+    "to": "Singapore"
+  }
+}
