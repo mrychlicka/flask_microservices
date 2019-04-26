@@ -1,0 +1,15 @@
+Project contains three microservices, which connect with each others.
+
+1. service - passengers:
+* list of all passengers
+* info about given passenger
+* info about given passenger flight
+
+2. service - flights:
+* list of all flight numbers
+* specific flight info
+
+3. service - flight dates:
+* list of all flights
+* lists on flights on given day
+* info about flights on specific date
